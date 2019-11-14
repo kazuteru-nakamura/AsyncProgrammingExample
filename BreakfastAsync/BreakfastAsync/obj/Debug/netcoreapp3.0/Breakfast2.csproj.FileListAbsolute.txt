@@ -1,0 +1,10 @@
+C:\Repos\Breakfast2\Breakfast2\bin\Debug\netcoreapp3.0\Breakfast2.exe
+C:\Repos\Breakfast2\Breakfast2\bin\Debug\netcoreapp3.0\Breakfast2.deps.json
+C:\Repos\Breakfast2\Breakfast2\bin\Debug\netcoreapp3.0\Breakfast2.runtimeconfig.json
+C:\Repos\Breakfast2\Breakfast2\bin\Debug\netcoreapp3.0\Breakfast2.runtimeconfig.dev.json
+C:\Repos\Breakfast2\Breakfast2\bin\Debug\netcoreapp3.0\Breakfast2.dll
+C:\Repos\Breakfast2\Breakfast2\bin\Debug\netcoreapp3.0\Breakfast2.pdb
+C:\Repos\Breakfast2\Breakfast2\obj\Debug\netcoreapp3.0\Breakfast2.AssemblyInfoInputs.cache
+C:\Repos\Breakfast2\Breakfast2\obj\Debug\netcoreapp3.0\Breakfast2.AssemblyInfo.cs
+C:\Repos\Breakfast2\Breakfast2\obj\Debug\netcoreapp3.0\Breakfast2.dll
+C:\Repos\Breakfast2\Breakfast2\obj\Debug\netcoreapp3.0\Breakfast2.pdb

@@ -1,0 +1,10 @@
+C:\Repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.0\Breakfast.exe
+C:\Repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.0\Breakfast.deps.json
+C:\Repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.0\Breakfast.runtimeconfig.json
+C:\Repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.0\Breakfast.runtimeconfig.dev.json
+C:\Repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.0\Breakfast.dll
+C:\Repos\Breakfast\Breakfast\bin\Debug\netcoreapp3.0\Breakfast.pdb
+C:\Repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.0\Breakfast.AssemblyInfoInputs.cache
+C:\Repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.0\Breakfast.AssemblyInfo.cs
+C:\Repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.0\Breakfast.dll
+C:\Repos\Breakfast\Breakfast\obj\Debug\netcoreapp3.0\Breakfast.pdb
